@@ -186,6 +186,7 @@ article {
   width: fit-content;
   height: 36px;
   font-size: 1.4rem;
+  font-weight: 500;
   line-height: 3.6rem;
   display: block;
   color: var(--blue);
